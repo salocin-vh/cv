@@ -1,0 +1,17 @@
+languageCode = "es"
+languageName = "Español"
+weight = 1
+title = "salocinvh"
+
+[params]
+  displayName = "ES"
+  isoCode = "es"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "CV - Nicolás Vargas H."
+
+[params.author]
+  name = "Nicolás Vargas H."
+  email = "salocinvh@proton.me"
+  headline = "comms"
+  image = "img/caracortada.png"

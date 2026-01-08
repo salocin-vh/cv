@@ -1,0 +1,9 @@
+[[main]]
+  identifier = "experiencia"
+  name = "experiencia"
+  url = "/experience/"
+
+[[main]]
+  identifier = "proyectos"
+  name = "proyectos"
+  url = "/projects/"
