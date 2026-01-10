@@ -1,3 +1,3 @@
-baseURL = 'https://salocin-vh.github.io/cv/'
+baseURL = 'https://salocin-vh.github.io/cv.git/'
 theme = "blowfish"
 languageCode = "es"
