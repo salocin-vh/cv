@@ -52,6 +52,7 @@ Hallazgos (Cajicá)
 * **Potencial del Sector:** En 2019, la edición de revistas y publicaciones periódicas generó más de **1.2 billones de pesos** en Colombia, demostrando un mercado robusto.
 * **Diferenciación:** Actualmente, ningún medio se dedica exclusivamente a observar la contracultura en el altiplano cundiboyacense con rigor periodístico.
 
+![img](img/malalogo.gif)
 
 ---
 ## Fases de desarrollo
@@ -91,7 +92,4 @@ Mala Ortografía cierra su etapa piloto como un ejercicio académico. Si bien el
 Hoy, en el 2026, aún creo en la necesidad de un periodismo que incomode, que analice y que dé voz a la escena del altiplano.
 
 ---
-
-![img](img/malalogo.gif)
-
 {{< alert icon="circle-info" cardColor="#E7372B" iconColor="#ffffff" textColor="#ffffff" >}} Estado del proyecto: Cerrado. {{< /alert >}}
