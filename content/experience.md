@@ -57,8 +57,6 @@ date = 2026-01-05
 > Tecnólogo en Producción de Multimedia
 {{< badge >}}🇨🇴 | 2022 | SENA{{< /badge >}}
 
-![img](img/bus.webp)
-
 ---
 ## Cursos y participación
 **Bootcamp: Seguridad digital para la participación y el bienestar en entornos digitales**
