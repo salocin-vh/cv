@@ -8,7 +8,7 @@ layout = "background"
   speed=60 
   lifeLike=true 
   breakLines=false >}}
-  Creo en una comunicación digital que informa, conecta y transforma.
+Creo en una comunicación digital que informa, conecta y transforma.
 {{< /typeit >}}
 {{< lead >}}
 Tengo experiencia en entornos de trabajo y desarrollo de comunicación digital para la defensa de derechos digitales y la justicia social en las fases de: <a>planificación estratégica, ejecución creativa, análisis de resultados y optimización de procesos.</a>
