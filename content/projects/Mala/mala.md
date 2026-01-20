@@ -3,6 +3,7 @@ title = "Mala Ortografía"
 date = 2021-05-10
 description = "Caso de estudio sobre periodismo narrativo descentralizado en el altiplano cundiboyacense."
 +++
+
 {{< typeit 
   tag=h1 
   speed=60 
@@ -23,6 +24,16 @@ Análisis
 - 
 Notamos que existia un carencia crítica de medios especializados en zonas que no son ciudades capitales que hicieran periodismo cultural y que le dieran una buena mirada a la contracultrua, actual es pobre o escasa, Medios como *Cartel Urbano*, *Bacánika* o *Cerosetenta* se enfocan mayoritariamente en centros urbanos principales. La falta de cubrimiento especializado fomenta prejuicios que tildan a jóvenes artistas de "vándalos"
 > Cartel urbano está bastante solo en el oficio de mirar únicamente a la cultura desde todos los ángulos con rigor y seriedad periodística".
+
+---
+
+{{< lead >}}
+
+[Web Mala - 2021 / 2022 - Archive.org](https://web.archive.org/web/20211203165421/https://malaortografia.com.co/)
+
+{{< / lead >}}
+
+---
 
 Hallazgos (Cajicá)
 -
