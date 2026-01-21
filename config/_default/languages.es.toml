@@ -8,10 +8,10 @@ title = "salocinvh"
   isoCode = "es"
   rtl = false
   dateFormat = "2 January 2006"
-  description = "CV - Nicolás Vargas H."
+  description = "Comunicación digital - Nicolás Vargas H."
 
 [params.author]
-  name = "Nicolás Vargas"
+  name = "Nicolás Vargas H."
   email = "salocinvh@proton.me"
-  headline = "comms"
+  headline = "Comunicación digital"
   image = "img/caracortada.png"

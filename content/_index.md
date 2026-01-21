@@ -3,6 +3,7 @@ title = "salocinvh"
 description = "Comms"
 layout = "background"
 +++
+<a>零</a>
 {{< typeit 
   tag=h4
   speed=60 
@@ -15,5 +16,6 @@ Tengo experiencia en entornos de trabajo y desarrollo de comunicación digital p
 
 Busco que mi trabajo contribuya al acceso libre al conocimiento y tengo especial interés en tejer redes digitales participativas.
 {{< / lead >}}
-<a>零</a>
+
+salocinvh@proton.me
 
