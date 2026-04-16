@@ -1,5 +1,5 @@
 theme = "blowfish"
-baseURL = "baseURL = 'https://salocin-vh.github.io/cv/'"
+baseURL = 'https://salocin-vh.github.io/cv/'
 defaultContentLanguage = "es"
 
 pluralizeListTitles = true
