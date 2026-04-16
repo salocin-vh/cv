@@ -9,9 +9,11 @@ title = "salocinvh"
   rtl = false
   dateFormat = "2 January 2006"
   description = "Comunicación digital - Nicolás Vargas H."
+  images = []
 
 [params.author]
   name = "Nicolás Vargas H."
   email = "salocinvh@proton.me"
+  phone = "+57 314 432 0240"
   headline = "Comunicación digital"
   image = "img/caracortada.png"

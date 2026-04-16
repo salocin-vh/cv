@@ -5,7 +5,7 @@ showTableOfContents = true
 date = 2026-01-05
 +++
 {{< lead >}}
-Estratega en comunicación multimedia especializado en la intersección de seguridad digital, gobernanza de internet y DD.HH en América Latina y el Caribe.
+Estratega en comunicación multimedia con interes en la intersección de seguridad digital, gobernanza de internet y DD.HH en América Latina y el Caribe.
 {{< /lead >}}
 
 ---
@@ -108,12 +108,3 @@ Estratega en comunicación multimedia especializado en la intersección de segur
 *Fundamentos del Desarrollo Web*
 <br>*JavaScript avanzado: Expesiones regulares*
 <br>*JavaScript avanzado: Buenas prácticas*
-
----
-
-## Voluntariado
-* **Wikimedia Colombia:** Contribución activa a la democratización del conocimiento libre y documentación en Wikidata.
-
-* **Comunidad Kogui - La Semilla:** Consultoría pro-bono en [desarrollo web](https://lasemilla.ong/) para la preservación de la cultura ancestral.
-
----
