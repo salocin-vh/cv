@@ -1,7 +1,7 @@
 +++
 title = "Nicolás Vargas H."
 description = "Tecnología y Comunicaciones Digitales | Especialista en Accesibilidad Web e Impacto Social"
-layout = "card"
+layout = "background"
 +++
 
 {{< typeit 
@@ -61,7 +61,7 @@ Busco aportar soluciones digitales eficientes, inclusivas y seguras en organizac
 <div style="display:flex;flex-direction:column;gap:0.5rem;">
 
 {{< button href="https://wa.me/573144320240" target="_blank" >}}
-{{< icon "whatsapp" >}} (+57) 314 432 0240
+{{< icon "whatsapp" >}} Hablemos por WhatsApp
 {{< /button >}}
 
 {{< button href="mailto:salocinvh@proton.me" target="_blank" >}}
