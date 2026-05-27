@@ -4,7 +4,16 @@ description = "Tecnología y Comunicaciones Digitales | Especialista en Accesibi
 layout = "card"
 +++
 
-### Me gusta ver el sol caer en la tarde aquí por el altiplano cundiboyacense. 
+{{< typeit 
+  tag=h2 
+  speed=60 
+  lifeLike=true 
+  breakLines=false 
+  loop=false >}}
+Me gusta ver el sol caer en la tarde aquí por el altiplano cundiboyacense.
+{{< /typeit >}}
+
+<a>🌱</a>
 
 Desde este entorno, me he desempeñado en roles de **comunicación digital** y **producción multimedia** durante más de tres años, liderando la estrategia, el desarrollo técnico y la gestión de contenidos en el sector social, cultural y de derechos humanos.
 
