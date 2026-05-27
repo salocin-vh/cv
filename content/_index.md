@@ -10,10 +10,8 @@ layout = "background"
   lifeLike=true 
   breakLines=false 
   loop=false >}}
-Me gusta ver caer la tarde aquí por el altiplano.
+Me gusta ver la tarde aquí por el altiplano 🌱
 {{< /typeit >}}
-
-<a>🌱</a>
 
 Desde este entorno, me he desempeñado en roles de **comunicación digital** y **producción multimedia** durante más de tres años, liderando la estrategia, el desarrollo técnico y la gestión de contenidos en el sector social, cultural y de derechos humanos.
 
