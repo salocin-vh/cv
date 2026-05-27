@@ -13,25 +13,24 @@ layout = "background"
 Copetón vaga el ciberespacio
 {{< /typeit >}}
 
-Desde este entorno, me he desempeñado en roles de **comunicación digital** y **producción multimedia** durante más de tres años, liderando la estrategia, el desarrollo técnico y la gestión de contenidos en el sector social, cultural y de derechos humanos.
+Durante más de tres años, me he desempeñado en roles de **comunicación digital** y **producción multimedia**, liderando la estrategia, el desarrollo técnico y la gestión de contenidos en proyectos del sector social, cultural y de derechos humanos.
 
 A lo largo de este trayecto, he consolidado mi práctica en tres ejes esenciales:
 
 Desarrollo Web Moderno
 ---
 
-Fusión de arquitecturas CMS y **sitios estáticos de alto rendimiento** con la creación de narrativas visuales de impacto.
+Integro arquitecturas CMS y desarrollo **sitios estáticos de alto rendimiento** para construir plataformas web rápidas, seguras y con narrativas visuales de impacto.
 
 Accesibilidad Universal
 ---
 
-Enfoque firmemente orientado al acceso libre al conocimiento, la **seguridad digital** y la inclusión bajo estándares **WCAG/ARIA** y **SEO**.
-
+Aseguro que los proyectos cumplan con rigurosos estándares de inclusión (**WCAG/ARIA**) y optimización (**SEO**), priorizando el acceso libre al conocimiento y la **seguridad digital**.
 
 Optimización Operativa
 ---
 
-Diseño de estrategias que reducen la fricción de los equipos mediante la **automatización de flujos de datos internos**.
+Mejoro la eficiencia de los equipos mediante la implementación de sistemas y la **automatización de flujos de datos internos**, reduciendo la fricción frente a altos volúmenes de producción.
 
 ---
 
