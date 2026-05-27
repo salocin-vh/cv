@@ -10,7 +10,7 @@ layout = "background"
   lifeLike=true 
   breakLines=false 
   loop=false >}}
-Me gusta ver el sol caer en la tarde aquí por el altiplano cundiboyacense.
+Me gusta ver caer la tarde aquí por el altiplano.
 {{< /typeit >}}
 
 <a>🌱</a>
