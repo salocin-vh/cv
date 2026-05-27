@@ -6,43 +6,32 @@ layout = "card"
 
 ### Me gusta ver el sol caer en la tarde aquí por el altiplano cundiboyacense. 
 
-Desde este entorno, me he desempeñado en roles de comunicación digital y producción multimedia durante más de tres años, liderando la estrategia, el desarrollo técnico y la gestión de contenidos en el sector social, cultural y de derechos humanos.
+Desde este entorno, me he desempeñado en roles de **comunicación digital** y **producción multimedia** durante más de tres años, liderando la estrategia, el desarrollo técnico y la gestión de contenidos en el sector social, cultural y de derechos humanos.
 
-A lo largo de este trayecto, he aprendido a fusionar el desarrollo web moderno —arquitecturas CMS y sitios estáticos de alto rendimiento— con la creación de narrativas visuales de impacto. Con un enfoque firmemente orientado al acceso libre al conocimiento, la seguridad digital y la accesibilidad universal (estándares WCAG/ARIA), cuento con experiencia en el diseño de estrategias y prácticas que reducen la fricción operativa mediante la optimización y automatización de flujos de datos internos. Busco aportar soluciones digitales eficientes, inclusivas y seguras en organizaciones que trabajen por la transformación social en Latinoamérica.
+A lo largo de este trayecto, he consolidado mi práctica en tres ejes esenciales:
+
+* **Desarrollo Web Moderno:** Fusión de arquitecturas CMS y **sitios estáticos de alto rendimiento** con la creación de narrativas visuales de impacto.
+* **Accesibilidad Universal:** Enfoque firmemente orientado al acceso libre al conocimiento, la **seguridad digital** y la inclusión bajo estándares **WCAG/ARIA** y **SEO**.
+* **Optimización Operativa:** Diseño de estrategias que reducen la fricción de los equipos mediante la **automatización de flujos de datos internos**.
+
+Busco aportar soluciones digitales eficientes, inclusivas y seguras en organizaciones comprometidas con la **transformación social en Latinoamérica**.
 
 ---
+
 ### Conectemos
 
-{{< tabs >}}
 
-    {{< tab label="WhatsApp" >}}
-    <br>
-    {{< button href="https://wa.me/573144320240" target="_blank" >}}
-    {{< icon "whatsapp" >}} Abrir chat de WhatsApp
-    {{< /button >}}
-    <br><br>
-    *Línea directa:* (+57) 314 432 0240
-    {{< /tab >}}
+<div style="display:flex;flex-direction:column;gap:0.5rem;">
 
-    {{< tab label="Correo" >}}
-    <br>
-    {{< button href="mailto:salocinvh@proton.me" target="_blank" >}}
-    {{< icon "envelope" >}} Enviar un correo electrónico
-    {{< /button >}}
-    <br><br>
-    *Contacto seguro:* salocinvh@proton.me
-    {{< /tab >}}
+{{< button href="https://wa.me/573144320240" target="_blank" >}}
+{{< icon "whatsapp" >}} (+57) 314 432 0240
+{{< /button >}}
 
-    {{< tab label="🌐 Portafolio" >}}
-    <br>
-    {{< button href="https://salocin-vh.github.io/cv/projects/portapapeles/portapapeles/" target="_blank" >}}
-    {{< icon "globe" >}} Explorar repositorio
-    {{< /button >}}
-    <br><br>
-    *Despliegue:* GitHub Pages
-    {{< /tab >}}
+{{< button href="mailto:salocinvh@proton.me" target="_blank" >}}
+{{< icon "envelope" >}} salocinvh@proton.me
+{{< /button >}}
 
-{{< /tabs >}}
+</div>
 
 <br>
 
