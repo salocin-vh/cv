@@ -1,11 +1,11 @@
 +++
-title = "道"
+title = "Experiencia y Trayectoria"
 layout = "hero"
 showTableOfContents = true
-date = 2026-01-05
+date = 2026-05-27
 +++
 {{< lead >}}
-Estratega en comunicación multimedia con interes en la intersección de seguridad digital, gobernanza de internet y DD.HH en América Latina y el Caribe.
+Profesional técnico en comunicación digital y producción multimedia con enfoque en el acceso libre al conocimiento, la seguridad digital y la accesibilidad universal (WCAG/ARIA) en América Latina y el Caribe.
 {{< /lead >}}
 
 ---
@@ -14,53 +14,48 @@ Estratega en comunicación multimedia con interes en la intersección de segurid
 
 {{< timeline >}}
 
-    {{< timelineItem icon="fire" header="CCEDA - La Parcería" badge="Madrid, ESP" subheader="Estratega de comunicación digital" >}}
-    Freelance | May 2025 - Nov 2025
+    {{< timelineItem icon="fire" header="CCEDA - La Parcería" badge="Madrid, ESP (Remoto)" subheader="Responsable de Comunicación y Marketing Digital" >}}
+    May 2025 - Nov 2025
     <br><br>
-    Lideré el crecimiento de la comunidad digital trabajando en conjunto con los actores culturales de Madrid que orbitan La Parcería, logrando un aumento orgánico de más de 3.000 seguidores en Instagram mediante el diseño de narrativas de identidad. Optimicé el flujo de producción multimedia mediante la implementación de un sistema de gestión de activos digitales que redujo los tiempos de entrega en un entorno de alta demanda.
-
+    Diseñé e implementé una estrategia integral de contenidos adaptada a narrativas decoloniales para [La Parcería](https://laparceria.org/), expandiendo la comunidad en Instagram en más de 3,000 seguidores orgánicos en 6 meses. Administré el mantenimiento técnico web, ejecuté estrategias SEO y maqueté material bibliográfico. Para mitigar la fricción operativa, optimicé el flujo de trabajo diseñando un sistema interno automatizado de recolección de datos de artistas.
     <br><br>
-    <b> Herramientas y metodologías: </b>    
+    <b>Ejes de acción:</b>    
     {{< keywordList >}}
-        {{< keyword >}} Gestión de comunidades{{< /keyword >}}
-        {{< keyword >}} Metricool / Meta Business Suite{{< /keyword >}}
+        {{< keyword >}} Estrategia Editorial & SEO {{< /keyword >}}
+        {{< keyword >}} Gestión de Comunidades {{< /keyword >}}
         {{< keyword >}} Automatización de flujos {{< /keyword >}}
-        {{< keyword >}} Mailchimp y retención {{< /keyword >}}
-        {{< keyword >}} Diseño editorial (Scribus) {{< /keyword >}}
+        {{< keyword >}} Meta Business Suite {{< /keyword >}}
     {{< /keywordList >}}
     {{< /timelineItem >}}
 
-    {{< timelineItem icon="lightbulb" header="Fundación Karisma" badge="Bogotá, COL" subheader="Auxiliar de comunicación digital y DD.HH." >}}
+    {{< timelineItem icon="lightbulb" header="Fundación Karisma" badge="Bogotá, COL (Híbrido)" subheader="Auxiliar Gráfico y de Estrategia Online" >}}
     Feb 2023 - Jun 2025
     <br><br>
-    Estructuré sistemas de recolección de datos para informes regionales y coordiné la infraestructura técnica para la incidencia en vivo (streaming multiplataforma). Fui ponente en el LACIGF 2024 (Chile), donde compartí estrategias de protección digital frente a riesgos en practicas como el sexting, con un enfoque interseccional. Fortalecí la presencia institucional mediante la gestión técnica de CMS y estrategias de mailing.
-
+    Co-administré el CMS institucional de la [Fundación Karisma](https://web.karisma.org.co/) y resolví problemas críticos de visualización frontend. Lideré la implementación técnica de transmisiones en vivo multiplataforma (OBS Studio) para foros regionales, asegurando una experiencia interactiva fluida. Sistematicé la recolección de datos para informes de gestión anuales y facilité la colaboración técnica que culminó con una ponencia institucional en el [LACIGF 2024](https://lacigf.org/) en Santiago de Chile.
     <br><br>
-    <b> Ejes de Especialidad: </b>    
+    <b>Ejes de acción:</b>    
     {{< keywordList >}}
-        {{< keyword >}} Incidencia en derechos digitales {{< /keyword >}}
-        {{< keyword >}} Protección digital & privacidad {{< /keyword >}}
-        {{< keyword >}} Producción técnica (OBS) {{< /keyword >}}
-        {{< keyword >}} Gestión de CMS (Wordpress) {{< /keyword >}}
-        {{< keyword >}} Narrativa audiovisual {{< /keyword >}}
-        {{< keyword >}} Planificación estratégica {{< /keyword >}}
+        {{< keyword >}} Incidencia en DD.HH. {{< /keyword >}}
+        {{< keyword >}} Soporte CMS (WordPress) {{< /keyword >}}
+        {{< keyword >}} Producción Técnica (OBS) {{< /keyword >}}
+        {{< keyword >}} Visualización de Datos {{< /keyword >}}
     {{< /keywordList >}}
     {{< /timelineItem >}}
 
-    {{< timelineItem icon="graduation-cap" header="Fundación Karisma" badge="Bogotá, COL" subheader="Web y Accesibilidad (Pasantía)" >}}
+    {{< timelineItem icon="graduation-cap" header="Fundación Karisma" badge="Bogotá, COL" subheader="Pasante de Comunicaciones Digitales" >}}
     Feb 2022 - Jul 2022
     <br><br>
-
-    Aprendí a hacer la implementación de sitios web estáticos de alta seguridad usando Jekyll y GitLab para proyectos de defensa de derechos. Desarrollé la arquitectura de información y taxonomías para mejorar la usabilidad del repositorio institucional y apliqué estándares internacionales de Accesibilidad Web (WCAG - ARIA).
+    Estructuré guías de taxonomías en WordPress aplicando pautas de indexación y estándares internacionales de [Accesibilidad Web (WCAG - ARIA)](https://www.w3.org/WAI/standards-guidelines/wcag). Desarrollé y testeé arquitecturas de sitios web estáticos utilizando generadores basados en Markdown (Jekyll) y GitLab. Apoyé la producción audiovisual, edición y subtitulado de podcasts sobre derechos digitales.
     <br><br>
-    <b> Enfoque Técnico: </b>    
+    <b>Ejes de acción:</b>    
     {{< keywordList >}}
-        {{< keyword >}} Web Estática (Jekyll / GIT) {{< /keyword >}}
-        {{< keyword >}} Arquitectura de Información {{< /keyword >}}
         {{< keyword >}} Accesibilidad Universal {{< /keyword >}}
-        {{< keyword >}} Edición de Medios Digitales {{< /keyword >}}
+        {{< keyword >}} Web Estática (Jekyll / Git) {{< /keyword >}}
+        {{< keyword >}} Arquitectura de Información {{< /keyword >}}
+        {{< keyword >}} Edición Audiovisual {{< /keyword >}}
     {{< /keywordList >}}
     {{< /timelineItem >}}
+
 {{< /timeline >}}
 
 ---
@@ -78,33 +73,29 @@ Estratega en comunicación multimedia con interes en la intersección de segurid
 <br>Sesión relámpago: "Construyendo estrategias de protección en prácticas de sexting con énfasis en mujeres y personas LGBTQIA+"
 
 * {{< badge >}}🇨🇱 | 2024 | Participante{{< /badge >}}
-**9º Foro de Gobernanza de Internet para las Juventudes de América Latina y el Caribe (Youth LACIGF)**  <br>Universidad de Chile, Santiago.
+**9º Foro de Gobernanza de Internet para las Juventudes de América Latina y el Caribe (Youth LACIGF)** <br>Universidad de Chile, Santiago.
 
 * {{< badge >}}🇨🇴 | 2024 | Participante{{< /badge >}}
-**11ª Edición del Foro de Gobernanza de Internet de Colombia** 
-<br>Universidad del Rosario, Bogotá.
+**11ª Edición del Foro de Gobernanza de Internet de Colombia** <br>Universidad del Rosario, Bogotá.
 
 * {{< badge >}}🇨🇴 | 2023 | Participante{{< /badge >}}
-**8º Foro de Gobernanza de Internet para las Juventudes de América Latina y el Caribe (Youth LACIGF)**  <br>Universidad de Cartagena, Colombia.
+**8º Foro de Gobernanza de Internet para las Juventudes de América Latina y el Caribe (Youth LACIGF)** <br>Universidad de Cartagena, Colombia.
 
 ### Certificaciones
 
-* {{< badge >}}🇧🇷 | 2025 | DATA GOYÁ Institute{{< /badge >}}**Bootcamp: Seguridad digital para la participación y el bienestar en entornos digitales**
+* {{< badge >}}🇧🇷 | 2025 | DATA GOYÁ Institute{{< /badge >}}
+**Bootcamp: Seguridad digital para la participación y el bienestar en entornos digitales**
 
-* {{< badge >}}🇲🇽 | 2024 | Mecanismo de Protección Integral de Defensoras DH y Periodistas de la CDMX {{< /badge >}} **Plan de acción ante incidentes y ataques digitales**
+* {{< badge >}}🇲🇽 | 2024 | Mecanismo de Protección Integral de Defensoras DH y Periodistas de la CDMX {{< /badge >}} 
+**Plan de acción ante incidentes y ataques digitales**
 <br> **Seguridad digital para sitios web**
 
 * {{< badge >}}🇨🇱 | 2023 | Derechos Digitales ONG{{< /badge >}}
 **Introducción a los Derechos Digitales en América Latina**
 
 ### Fundamentos técnicos
-* {{< badge >}}2021 |LinkedIn Learning{{< /badge >}}*MySQL Esencial*
-<br>*Node.js Esencial*
-<br>*Premiere Pro 2020*
-<br>*Fundamentos esenciales del video digital*
-<br>*Formatos de video digital*
+* {{< badge >}}2021 | LinkedIn Learning{{< /badge >}}
+*MySQL Esencial* <br> *Node.js Esencial* <br> *Premiere Pro 2020* <br> *Fundamentos esenciales del video digital* <br> *Formatos de video digital*
 
-* {{< badge >}}2020 |LinkedIn Learning{{< /badge >}}
-*Fundamentos del Desarrollo Web*
-<br>*JavaScript avanzado: Expesiones regulares*
-<br>*JavaScript avanzado: Buenas prácticas*
+* {{< badge >}}2020 | LinkedIn Learning{{< /badge >}}
+*Fundamentos del Desarrollo Web* <br> *JavaScript avanzado: Expresiones regulares* <br> *JavaScript avanzado: Buenas prácticas*
