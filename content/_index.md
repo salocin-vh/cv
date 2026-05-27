@@ -11,7 +11,9 @@ Desarrollo plataformas web de alto rendimiento y bajo costo, diseñadas para amp
 {{< button href="https://wa.me/573144320240?" target="_blank" >}}
 {{< icon "whatsapp" >}} Hablemos por WhatsApp
 {{< /button >}}
-<br>
+
+---
+
 {{< button href="mailto:salocinvh@proton.me" target="_blank" >}}
 {{< icon "envelope" >}} salocinvh@proton.me
 {{< /button >}}
