@@ -35,6 +35,8 @@ Optimización Operativa
 
 Diseño de estrategias que reducen la fricción de los equipos mediante la **automatización de flujos de datos internos**.
 
+---
+
 {{< alert icon="sun" >}}
 Busco aportar soluciones digitales eficientes, inclusivas y seguras en organizaciones comprometidas con la **transformación social en Latinoamérica**.
 {{< /alert >}}
