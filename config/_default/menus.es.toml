@@ -7,3 +7,21 @@
   identifier = "proyectos"
   name = "proyectos"
   url = "/projects/"
+
+[[social]]
+  name = "LinkedIn"
+  pre = "linkedin"
+  weight = 1
+  url = "https://www.linkedin.com/in/salocinvh/"
+
+[[social]]
+  name = "Email"
+  pre = "envelope"
+  weight = 2
+  url = "mailto:salocinvh@proton.me"
+
+[[social]]
+  name = "WhatsApp"
+  pre = "whatsapp"
+  weight = 3
+  url = "https://wa.me/3144320240"
