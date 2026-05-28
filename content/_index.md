@@ -10,10 +10,10 @@ layout = "background"
   lifeLike=true 
   breakLines=false 
   loop=false >}}
-Copetón vaga el ciberespacio
+Copetón vaga por el ciberespacio
 {{< /typeit >}}
 
-Durante más de tres años, me he desempeñado en roles de **comunicación digital** y **producción multimedia**, trabajando en la estrategia, el desarrollo técnico y la gestión de contenidos en proyectos del sector social, cultural y de derechos humanos.
+Durante más de tres años, me he desempeñado en roles de **comunicación digital** y **producción multimedia**, trabajando en la estrategia, el desarrollo técnico y la gestión de contenidos en proyectos del sector social, cultural y de Derechos Humanos.
 
 A lo largo de este trayecto, he consolidado mi práctica en tres ejes esenciales:
 
