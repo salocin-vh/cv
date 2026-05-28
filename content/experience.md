@@ -15,9 +15,9 @@ Profesional técnico en comunicación digital y producción multimedia con enfoq
 {{< timeline >}}
 
     {{< timelineItem icon="fire" header="CCEDA - La Parcería" badge="Madrid, ESP (Remoto)" subheader="Responsable de Comunicación y Marketing Digital" >}}
-    May 2025 - Nov 2025
+    Mayo 2025 - Noviembre 2025
     <br><br>
-    Diseñé e implementé una estrategia integral de contenidos adaptada a narrativas decoloniales para [La Parcería](https://laparceria.org/), expandiendo la comunidad en Instagram en más de 3,000 seguidores orgánicos en 6 meses. Administré el mantenimiento técnico web, ejecuté estrategias SEO y maqueté material bibliográfico. Para mitigar la fricción operativa, optimicé el flujo de trabajo diseñando un sistema interno automatizado de recolección de datos de artistas.
+    Diseñé e implementé una estrategia integral de contenidos adaptada a narrativas decoloniales para [La Parcería](https://laparceria.org/), con la que logré un crecimiento de más de 3.000 seguidores orgánicos en Instagram en solo 6 meses. Administré el mantenimiento técnico de la web, ejecuté estrategias SEO y maqueté material bibliográfico. Para mitigar la fricción operativa, optimicé el flujo de trabajo mediante el diseño de un sistema interno automatizado para la recolección de datos de artistas.
     <br><br>
     <b>Ejes de acción:</b>    
     {{< keywordList >}}
@@ -29,13 +29,13 @@ Profesional técnico en comunicación digital y producción multimedia con enfoq
     {{< /timelineItem >}}
 
     {{< timelineItem icon="lightbulb" header="Fundación Karisma" badge="Bogotá, COL (Híbrido)" subheader="Auxiliar Gráfico y de Estrategia Online" >}}
-    Feb 2023 - Jun 2025
+    Febrero 2023 - Junio 2025
     <br><br>
-    Co-administré el CMS institucional de la [Fundación Karisma](https://web.karisma.org.co/) y resolví problemas críticos de visualización frontend. Lideré la implementación técnica de transmisiones en vivo multiplataforma (OBS Studio) para foros regionales, asegurando una experiencia interactiva fluida. Sistematicé la recolección de datos para informes de gestión anuales y facilité la colaboración técnica que culminó con una ponencia institucional en el [LACIGF 2024](https://lacigf.org/) en Santiago de Chile.
+    Coadministré el CMS institucional de la [Fundación Karisma](https://web.karisma.org.co/) y resolví problemas críticos de visualización *frontend*. Lideré la implementación técnica de transmisiones en vivo multiplataforma (OBS Studio) para foros regionales, asegurando una experiencia interactiva fluida. Sistematicé la recolección de datos para informes de gestión anuales y facilité la colaboración técnica que culminó con una ponencia institucional en el [LACIGF 2024](https://lacigf.org/) en Santiago de Chile.
     <br><br>
     <b>Ejes de acción:</b>    
     {{< keywordList >}}
-        {{< keyword >}} Incidencia en DD.HH. {{< /keyword >}}
+        {{< keyword >}} Incidencia en DD. HH. {{< /keyword >}}
         {{< keyword >}} Soporte CMS (WordPress) {{< /keyword >}}
         {{< keyword >}} Producción Técnica (OBS) {{< /keyword >}}
         {{< keyword >}} Visualización de Datos {{< /keyword >}}
@@ -43,9 +43,9 @@ Profesional técnico en comunicación digital y producción multimedia con enfoq
     {{< /timelineItem >}}
 
     {{< timelineItem icon="graduation-cap" header="Fundación Karisma" badge="Bogotá, COL" subheader="Pasante de Comunicaciones Digitales" >}}
-    Feb 2022 - Jul 2022
+    Febrero 2022 - Julio 2022
     <br><br>
-    Estructuré guías de taxonomías en WordPress aplicando pautas de indexación y estándares internacionales de [Accesibilidad Web (WCAG - ARIA)](https://www.w3.org/WAI/standards-guidelines/wcag). Desarrollé y testeé arquitecturas de sitios web estáticos utilizando generadores basados en Markdown (Jekyll) y GitLab. Apoyé la producción audiovisual, edición y subtitulado de podcasts sobre derechos digitales.
+    Estructuré guías de taxonomías en WordPress aplicando pautas de indexación y estándares internacionales de [Accesibilidad Web (WCAG - ARIA)](https://www.w3.org/WAI/standards-guidelines/wcag). Desarrollé y evalué arquitecturas de sitios web estáticos utilizando generadores basados en Markdown (Jekyll) y GitLab. Apoyé la producción audiovisual, así como la edición y el subtitulado de *podcasts* sobre derechos digitales.
     <br><br>
     <b>Ejes de acción:</b>    
     {{< keywordList >}}
@@ -69,24 +69,24 @@ Profesional técnico en comunicación digital y producción multimedia con enfoq
 ### Participación en foros
 
 * {{< badge >}}🇨🇱 | 2024 | Ponente{{< /badge >}}
-**17ª Edición del Foro de Gobernanza de Internet de América Latina y el Caribe (LACIGF)**
-<br>Sesión relámpago: "Construyendo estrategias de protección en prácticas de sexting con énfasis en mujeres y personas LGBTQIA+"
+**17.ª Edición del Foro de Gobernanza de Internet de América Latina y el Caribe (LACIGF)**
+<br>Sesión relámpago: "Construyendo estrategias de protección en prácticas de *sexting* con énfasis en mujeres y personas LGBTQIA+"
 
 * {{< badge >}}🇨🇱 | 2024 | Participante{{< /badge >}}
-**9º Foro de Gobernanza de Internet para las Juventudes de América Latina y el Caribe (Youth LACIGF)** <br>Universidad de Chile, Santiago.
+**9.º Foro de Gobernanza de Internet para las Juventudes de América Latina y el Caribe (Youth LACIGF)** <br>Universidad de Chile, Santiago.
 
 * {{< badge >}}🇨🇴 | 2024 | Participante{{< /badge >}}
-**11ª Edición del Foro de Gobernanza de Internet de Colombia** <br>Universidad del Rosario, Bogotá.
+**11.ª Edición del Foro de Gobernanza de Internet de Colombia** <br>Universidad del Rosario, Bogotá.
 
 * {{< badge >}}🇨🇴 | 2023 | Participante{{< /badge >}}
-**8º Foro de Gobernanza de Internet para las Juventudes de América Latina y el Caribe (Youth LACIGF)** <br>Universidad de Cartagena, Colombia.
+**8.º Foro de Gobernanza de Internet para las Juventudes de América Latina y el Caribe (Youth LACIGF)** <br>Universidad de Cartagena, Colombia.
 
 ### Certificaciones
 
 * {{< badge >}}🇧🇷 | 2025 | DATA GOYÁ Institute{{< /badge >}}
-**Bootcamp: Seguridad digital para la participación y el bienestar en entornos digitales**
+***Bootcamp*: Seguridad digital para la participación y el bienestar en entornos digitales**
 
-* {{< badge >}}🇲🇽 | 2024 | Mecanismo de Protección Integral de Defensoras DH y Periodistas de la CDMX {{< /badge >}} 
+* {{< badge >}}🇲🇽 | 2024 | Mecanismo de Protección Integral de Defensoras de DD. HH. y Periodistas de la CDMX {{< /badge >}} 
 **Plan de acción ante incidentes y ataques digitales**
 <br> **Seguridad digital para sitios web**
 
