@@ -31,7 +31,7 @@ Profesional técnico en comunicación digital y producción multimedia con enfoq
     {{< timelineItem icon="lightbulb" header="Fundación Karisma" badge="Bogotá, COL (Híbrido)" subheader="Auxiliar Gráfico y de Estrategia Online" >}}
     Febrero 2023 - Junio 2025
     <br><br>
-    Coadministré el CMS institucional de la <a href="https://web.karisma.org.co/" target="_blank">Fundación Karisma</a> y resolví problemas críticos de visualización frontend. Lideré la implementación técnica de transmisiones en vivo multiplataforma (OBS Studio) para foros regionales, asegurando una experiencia interactiva fluida. Sistematicé la recolección de datos para informes de gestión anuales y facilité la colaboración técnica que culminó con una ponencia institucional en el <a href="https://www.youtube.com/watch?v=MU03aoHAHJQ&" target="_blank">LACIGF 2024</a> en Santiago de Chile.
+    Coadministré el CMS institucional de la <a href="https://web.karisma.org.co/" target="_blank">Fundación Karisma</a> y resolví problemas críticos de visualización frontend. Lideré la implementación técnica de transmisiones en vivo multiplataforma (OBS Studio), asegurando una experiencia interactiva fluida. Sistematicé la recolección de datos para informes de gestión anuales y facilité la colaboración técnica que culminó con una ponencia institucional en el <a href="https://www.youtube.com/watch?v=MU03aoHAHJQ&" target="_blank">LACIGF 2024</a> en Santiago de Chile.
     <br><br>
     <b>Ejes de acción:</b>    
     {{< keywordList >}}
