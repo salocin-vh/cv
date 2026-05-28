@@ -166,4 +166,18 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [advertisement]
   # adsense = ""
+  
+[author]
+  name = "salocinvh"
+  [[author.socialLinks]]
+    icon = "linkedin"
+    link = "https://www.linkedin.com/in/salocinvh/"
+
+  [[author.socialLinks]]
+    icon = "envelope"  
+    link = "mailto:salocinvh@proton.me"
+
+  [[author.socialLinks]]
+    icon = "whatsapp"
+    link = "https://wa.me/3144320240"
 
