@@ -17,7 +17,7 @@ Profesional técnico en comunicación digital y producción multimedia con enfoq
     {{< timelineItem icon="fire" header="CCEDA - La Parcería" badge="Madrid, ESP (Remoto)" subheader="Responsable de Comunicación y Marketing Digital" >}}
     Mayo 2025 - Noviembre 2025
     <br><br>
-    Diseñé e implementé una estrategia integral de contenidos adaptada a narrativas decoloniales para [La Parcería](https://laparceria.org/), con la que logré un crecimiento de más de 3.000 seguidores orgánicos en Instagram en solo 6 meses. Administré el mantenimiento técnico de la web, ejecuté estrategias SEO y maqueté material bibliográfico. Para mitigar la fricción operativa, optimicé el flujo de trabajo mediante el diseño de un sistema interno automatizado para la recolección de datos de artistas.
+    Diseñé e implementé una estrategia integral de contenidos adaptada a narrativas decoloniales para <a href="https://laparceria.org/" target="_blank">La Parcería</a>, con la que logré un crecimiento de más de 3.000 seguidores orgánicos en Instagram en solo 6 meses. Administré el mantenimiento técnico de la web, ejecuté estrategias SEO y maqueté material bibliográfico. Para mitigar la fricción operativa, optimicé el flujo de trabajo mediante el diseño de un sistema interno automatizado para la recolección de datos de artistas.
     <br><br>
     <b>Ejes de acción:</b>    
     {{< keywordList >}}
@@ -31,7 +31,7 @@ Profesional técnico en comunicación digital y producción multimedia con enfoq
     {{< timelineItem icon="lightbulb" header="Fundación Karisma" badge="Bogotá, COL (Híbrido)" subheader="Auxiliar Gráfico y de Estrategia Online" >}}
     Febrero 2023 - Junio 2025
     <br><br>
-    Coadministré el CMS institucional de la [Fundación Karisma](https://web.karisma.org.co/) y resolví problemas críticos de visualización *frontend*. Lideré la implementación técnica de transmisiones en vivo multiplataforma (OBS Studio) para foros regionales, asegurando una experiencia interactiva fluida. Sistematicé la recolección de datos para informes de gestión anuales y facilité la colaboración técnica que culminó con una ponencia institucional en el [LACIGF 2024](https://lacigf.org/) en Santiago de Chile.
+    Coadministré el CMS institucional de la <a href="https://web.karisma.org.co/" target="_blank">Fundación Karisma</a> y resolví problemas críticos de visualización *frontend*. Lideré la implementación técnica de transmisiones en vivo multiplataforma (OBS Studio) para foros regionales, asegurando una experiencia interactiva fluida. Sistematicé la recolección de datos para informes de gestión anuales y facilité la colaboración técnica que culminó con una ponencia institucional en el <a href="https://www.youtube.com/watch?v=MU03aoHAHJQ&" target="_blank">LACIGF 2024</a> en Santiago de Chile.
     <br><br>
     <b>Ejes de acción:</b>    
     {{< keywordList >}}
@@ -45,7 +45,7 @@ Profesional técnico en comunicación digital y producción multimedia con enfoq
     {{< timelineItem icon="graduation-cap" header="Fundación Karisma" badge="Bogotá, COL" subheader="Pasante de Comunicaciones Digitales" >}}
     Febrero 2022 - Julio 2022
     <br><br>
-    Estructuré guías de taxonomías en WordPress aplicando pautas de indexación y estándares internacionales de [Accesibilidad Web (WCAG - ARIA)](https://www.w3.org/WAI/standards-guidelines/wcag). Desarrollé y evalué arquitecturas de sitios web estáticos utilizando generadores basados en Markdown (Jekyll) y GitLab. Apoyé la producción audiovisual, así como la edición y el subtitulado de *podcasts* sobre derechos digitales.
+    Estructuré guías de taxonomías en WordPress aplicando pautas de indexación y estándares internacionales de <a href="https://www.w3.org/WAI/standards-guidelines/wcag" target="_blank">Accesibilidad Web (WCAG - ARIA)</a>. Desarrollé y evalué arquitecturas de sitios web estáticos utilizando generadores basados en Markdown (Jekyll) y GitLab. Apoyé la producción audiovisual, así como la edición y el subtitulado de *podcasts* sobre derechos digitales.
     <br><br>
     <b>Ejes de acción:</b>    
     {{< keywordList >}}
