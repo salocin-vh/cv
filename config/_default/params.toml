@@ -35,6 +35,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
+  showSocialLinks = true    # <-- AÑADIDO: Muestra tus 3 iconos en el pie de página
+  showAuthor = true         # <-- AÑADIDO: Asegura que el footer lea tus datos de autor
 
 [homepage]
   layout = "card" # valid options: page, profile, hero, card, background, custom
@@ -59,125 +61,4 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
-  showDraftLabel = false
-  showEdit = false
-  # editURL = "https://github.com/username/repo/"
-  editAppendPath = false
-  seriesOpened = false
-  showHeadingAnchors = true
-  showPagination = true
-  invertPagination = false
-  showReadingTime = true
-  showTableOfContents = true
-  # showRelatedContent = false
-  # relatedContentLimit = 3
-  showTaxonomies = false # use showTaxonomies OR showCategoryOnly, not both
-  showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
-  showAuthorsBadges = true
-  showWordCount = true
-  # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
-  showZenMode = true
-  favicon = "favicon.ico"
-
-[list]
-  showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = true
-  showSummary = true
-  showViews = false
-  showLikes = false
-  showTableOfContents = true
-  showCards = true
-  orderByWeight = true
-  groupByYear = false
-  cardView = true
-  cardViewScreenWidth = false
-  constrainItemsWidth = true
-
-[sitemap]
-  excludedKinds = ["taxonomy", "term"]
-
-[taxonomy]
-  showTermCount = true
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
-  cardView = false
-
-[term]
-  showHero = true
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = true
-  showViews = false
-  showLikes = false
-  showTableOfContents = true
-  groupByYear = false
-  cardView = true
-  cardViewScreenWidth = true
-
-[firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
-
-[fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
-
-[umamiAnalytics]
-  # websiteid = "ABC12345"
-  # domain = "llama.yoursite.com"
-  # dataDomains = "yoursite.com,yoursite2.com"
-  # scriptName = ""
-  # enableTrackEvent = true
-
-[selineAnalytics]
-  # token = "XXXXXX"
-  # enableTrackEvent = true
-
-[buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "right"
-
-[verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""
-  # fediverse = ""
-
-[rssnext]
-  # feedId = ""
-  # userId = ""
-
-[advertisement]
-  # adsense = ""
-  
-[author]
-  name = "salocinvh"
-  [[author.socialLinks]]
-    icon = "linkedin"
-    link = "https://www.linkedin.com/in/salocinvh/"
-
-  [[author.socialLinks]]
-    icon = "envelope"  
-    link = "mailto:salocinvh@proton.me"
-
-  [[author.socialLinks]]
-    icon = "whatsapp"
-    link = "https://wa.me/3144320240"
-
+  layoutBackgroundHeaderSpace
