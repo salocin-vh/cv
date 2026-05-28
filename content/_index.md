@@ -17,7 +17,7 @@ Durante más de tres años, me he desempeñado en roles de **comunicación digit
 
 A lo largo de este trayecto, he consolidado mi práctica en tres ejes esenciales:
 
-Desarrollo Web Moderno
+Web Moderna
 ---
 
 Integro arquitecturas CMS y desarrollo **sitios estáticos de alto rendimiento** para construir plataformas web rápidas, seguras y con narrativas visuales de impacto.
