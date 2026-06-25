@@ -3,36 +3,13 @@ title = "Nicolás Vargas H."
 description = "Tecnología y Comunicaciones Digitales | Especialista en Accesibilidad Web e Impacto Social"
 layout = "background"
 +++
+Mi trabajo se ha sitúado en la intersección entre la comunicación digital y el acceso abierto al conocimiento. A lo largo de mi [experiencia](https://www.linkedin.com/in/salocinvh/details/experience/) en organizaciones como [Fundación Karisma](https://info.karisma.org.co/) y [La Parcería](https://laparceria.org/), he aprendido que la tecnología funciona mejor cuando no se siente forzada. 
 
-{{< typeit 
-  tag=h3 
-  speed=40 
-  lifeLike=true 
-  breakLines=false 
-  loop=false >}}
-Copetón vaga por el ciberespacio
-{{< /typeit >}}
+Mi labor ha consistido en facilitar que la información y las herramientas digitales sirvan a las personas y que los procesos complejos se simplifiquen.
 
-Durante más de tres años, me he desempeñado en roles de **comunicación digital** y **producción multimedia**, trabajando en la estrategia, el desarrollo técnico y la gestión de contenidos en proyectos del sector social, cultural y de Derechos Humanos.
+> **Filosofía de trabajo:** Observar el sistema de comunicaciones digitales, identificar dónde hay fricción y aplicar soluciones que permitan a la creatividad y la participación se desplieguen naturalmente.
 
-A lo largo de este trayecto, he consolidado mi práctica en tres ejes esenciales:
-
-Web Moderna
----
-
-Integro arquitecturas CMS y desarrollo **sitios estáticos de alto rendimiento** para construir plataformas web rápidas, seguras y con narrativas visuales de impacto.
-
-Accesibilidad Universal
----
-
-Aseguro que los proyectos cumplan con rigurosos estándares de inclusión (**WCAG/ARIA**) y optimización (**SEO**), priorizando el acceso libre al conocimiento y la **seguridad digital**.
-
-Optimización Operativa
----
-
-Mejoro la eficiencia de los equipos mediante la implementación de sistemas y la **automatización de flujos de datos internos**, reduciendo la fricción frente a altos volúmenes de producción.
-
----
+> **Propósito:** Busco aportar soluciones digitales eficientes, inclusivas y seguras en organizaciones comprometidas con la **transformación social en Latinoamérica**.
 
 {{< alert icon="sun" >}}
 Busco aportar soluciones digitales eficientes, inclusivas y seguras en organizaciones comprometidas con la **transformación social en Latinoamérica**.
@@ -58,6 +35,15 @@ Busco aportar soluciones digitales eficientes, inclusivas y seguras en organizac
 {{< /button >}}
 
 </div>
+
+{{< typeit 
+  tag=h3 
+  speed=40 
+  lifeLike=true 
+  breakLines=false 
+  loop=false >}}
+Copetón vaga por el ciberespacio
+{{< /typeit >}}
 
 <br>
 
