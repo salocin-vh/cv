@@ -9,8 +9,6 @@ Mi labor ha consistido en facilitar que la información y las herramientas digit
 
 > **Filosofía de trabajo:** Observar el sistema de comunicaciones digitales, identificar dónde hay fricción y aplicar soluciones que permitan a la creatividad y la participación se desplieguen naturalmente.
 
-> **Propósito:** Busco aportar soluciones digitales eficientes, inclusivas y seguras en organizaciones comprometidas con la **transformación social en Latinoamérica**.
-
 {{< alert icon="sun" >}}
 Busco aportar soluciones digitales eficientes, inclusivas y seguras en organizaciones comprometidas con la **transformación social en Latinoamérica**.
 {{< /alert >}}
