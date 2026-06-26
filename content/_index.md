@@ -28,7 +28,7 @@ Busco aportar soluciones digitales eficientes, inclusivas y seguras en organizac
 {{< icon "envelope" >}} salocinvh@proton.me
 {{< /button >}}
 
-{{< button href="https://drive.google.com/file/d/1G_DUl9F3s78XbDsihAHuV5tR_OXBLn5V/view?usp=drive_link" target="_blank" >}}
+{{< button href="/pdf/CV-NVH-2026.pdf" target="_blank" >}}
 {{< icon "download" >}} Descarga mi CV en PDF
 {{< /button >}}
 
